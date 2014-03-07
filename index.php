@@ -6,3 +6,5 @@
  * and open the template in the editor.
  */
 
+echo "Hello, World! And find new way to iteract with reality!";
+
